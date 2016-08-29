@@ -172,3 +172,7 @@ h1, h2, h3, h4, h5, h6 {
 .gallery img:hover {
 	opacity: 0.4;
 }
+
+.fst-team-member {
+  margin-left: 20px;
+}
