@@ -1,6 +1,12 @@
 /* ==========================================================================
    Base Styles, Bootstrap Modifications & Fonts Import
    ========================================================================== */
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+
 
 /* latin */
 @font-face {
