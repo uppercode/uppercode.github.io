@@ -1,10 +1,10 @@
 /* ==========================================================================
    Base Styles, Bootstrap Modifications & Fonts Import
    ========================================================================== */
-.main-text {
+/*.main-text {
   font-size:300% !important;
 }
-
+*/
 .nopadding {
    padding: 0 !important;
    margin: 0 !important;
